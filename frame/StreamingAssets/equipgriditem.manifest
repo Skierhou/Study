@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 4084079989
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 996f6cabfe608e9d2136e5256823cf6a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ab9b00c3e80a7251150d38eb282ad395
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1ac09b2bac0a3474e8d7ef75c0634d0a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameData/Prefabs/UI/EquipGridItem.prefab
+Dependencies:
+- G:/UnityProject/TowerDefense/Assets/../AssetBundle/StandaloneWindows64/characterpanel

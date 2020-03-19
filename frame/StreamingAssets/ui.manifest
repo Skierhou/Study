@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 1960555124
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7a4c5e4cfbad3531a2ca2eac5952ec93
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d86848c4b7aa499dfa047ef271d6b160
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1ac09b2bac0a3474e8d7ef75c0634d0a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9481091f4963d7f46b470d36c1f68e2f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameData/Prefabs/UI/GridItem.prefab
+- Assets/GameData/Prefabs/UI/EquipGridItem.prefab
+Dependencies: []

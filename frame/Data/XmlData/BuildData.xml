@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BuildData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BuildList Id="1" IconPath="Assets\GameData\Textures\1.png" Name="人族" RaceType="Human" Coin="0" Des="Des" />
+  <BuildList Id="2" IconPath="Assets\GameData\Textures\1.png" Name="兽族" RaceType="Orc" Coin="1" Des="Des" />
+  <BuildList Id="3" IconPath="Assets\GameData\Textures\1.png" Name="不死族" RaceType="Undead" Coin="2" Des="Des" />
+  <BuildList Id="4" IconPath="Assets\GameData\Textures\1.png" Name="龙族" RaceType="Dragon" Coin="3" Des="Des" />
+  <BuildList Id="5" IconPath="Assets\GameData\Textures\1.png" Name="中立族" RaceType="Neutral" Coin="4" Des="Des" />
+</BuildData>

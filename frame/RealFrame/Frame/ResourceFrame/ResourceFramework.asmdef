@@ -1,0 +1,8 @@
+{
+    "name": "ResourceFramework",
+    "references": [
+        "Base"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

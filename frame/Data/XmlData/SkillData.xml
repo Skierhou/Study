@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SkillData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SkillList Id="1" Name="Name" Path="Path" IconPath="IconPath" EffectPath="EffectPath" SkillType="Active" ReleaseType="Instantaneous" CD="0" Duration="0" TriggerRate="0" BasicAddition="0" AdditionType="Strengthen" AdditionRate="0" Des="Des">
+    <CdTimer>0</CdTimer>
+  </SkillList>
+</SkillData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EnemyData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EnemyList Id="1" Name="Name" Path="Path" IconPath="IconPath">
+    <MoveSpeed>0</MoveSpeed>
+    <Exp>0</Exp>
+    <Coin>0</Coin>
+    <TotalHp>0</TotalHp>
+    <CurrentHp>0</CurrentHp>
+    <Defense>0</Defense>
+    <MagicDefense>0</MagicDefense>
+    <ResistRaceList>0</ResistRaceList>
+    <FearRaceList>0</FearRaceList>
+  </EnemyList>
+</EnemyData>

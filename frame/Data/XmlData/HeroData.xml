@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HeroData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HeroList Id="1" Name="Name" Path="Path" IconPath="Assets\GameData\Textures\1.png" AttackPath="Assets\GameData\Textures\1.png" RaceType="Human" AttackRange="0" Des="Des">
+    <Strength>0</Strength>
+    <Agility>0</Agility>
+    <Intelligence>0</Intelligence>
+    <Attack>0</Attack>
+    <PhyCrit>0</PhyCrit>
+    <PhyCritMultiply>0</PhyCritMultiply>
+    <AttackRate>0</AttackRate>
+    <AttackIntervalLimit>0</AttackIntervalLimit>
+    <MagicDamage>0</MagicDamage>
+    <MagicCrit>0</MagicCrit>
+    <MagicCritMultiply>0</MagicCritMultiply>
+    <Level>0</Level>
+    <Exp>0</Exp>
+    <NeedExp>0</NeedExp>
+    <Point>0</Point>
+    <SkillList>0</SkillList>
+  </HeroList>
+</HeroData>

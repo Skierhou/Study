@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EquipData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EquipList Id="1" Name="Name" IconPath="Assets\GameData\Textures\frame02.png" Coin="0" EquipLevel="Lower" EquipType="Attack" Des="Des">
+    <SellCoin>0</SellCoin>
+    <TotalCoin>0</TotalCoin>
+    <PreList>0</PreList>
+    <AdditionTypeList>0</AdditionTypeList>
+    <AdditionList>0</AdditionList>
+    <SkillIdList>0</SkillIdList>
+  </EquipList>
+</EquipData>

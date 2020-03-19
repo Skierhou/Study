@@ -1,0 +1,9 @@
+{
+    "name": "ConfigFreamwork",
+    "references": [
+        "Base",
+        "ResourceFramework"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

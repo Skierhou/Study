@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 1653249601
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: binary
+      Dependencies: {}
+    Info_1:
+      Name: buildpanel
+      Dependencies: {}
+    Info_2:
+      Name: characterpanel
+      Dependencies:
+        Dependency_0: buildpanel
+    Info_3:
+      Name: equipshoppanel
+      Dependencies:
+        Dependency_0: buildpanel
+        Dependency_1: characterpanel
+    Info_4:
+      Name: gamepanel
+      Dependencies:
+        Dependency_0: buildpanel
+        Dependency_1: characterpanel
+    Info_5:
+      Name: mainpanel
+      Dependencies:
+        Dependency_0: buildpanel
+        Dependency_1: gamepanel
+    Info_6:
+      Name: skillinfopanel
+      Dependencies:
+        Dependency_0: buildpanel
+    Info_7:
+      Name: equipgriditem
+      Dependencies:
+        Dependency_0: characterpanel
+    Info_8:
+      Name: griditem
+      Dependencies: {}
+    Info_9:
+      Name: assetbundleconfig
+      Dependencies: {}

@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2103719027
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a871352b870d38cb70e19d685bea3938
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Data/BinaryData/EquipData.bytes
+- Assets/Data/BinaryData/WaveData.bytes
+- Assets/Data/BinaryData/HeroData.bytes
+- Assets/Data/BinaryData/BuildData.bytes
+- Assets/Data/BinaryData/SkillData.bytes
+- Assets/Data/BinaryData/EnemyData.bytes
+Dependencies: []

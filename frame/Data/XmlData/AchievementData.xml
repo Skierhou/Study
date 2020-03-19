@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AchievementData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <AchievementList Id="1" Name="Name" IconPath="Assets\GameData\Textures\frame02.png" Des="Des" AchievementType="Kill" NeedCount="10" Reward="100" />
+  <AchievementList Id="2" Name="Name" IconPath="Assets\GameData\Textures\frame02.png" Des="Des" AchievementType="Kill" NeedCount="0" Reward="100" />
+  <AchievementList Id="3" Name="Name" IconPath="Assets\GameData\Textures\frame02.png" Des="Des" AchievementType="Kill" NeedCount="100" Reward="1000" />
+</AchievementData>

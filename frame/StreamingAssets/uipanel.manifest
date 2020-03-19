@@ -1,0 +1,77 @@
+ManifestFileVersion: 0
+CRC: 283601281
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 03b4aece9e4b22817df908e45d08d6eb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5389dc44253df6d1f667d4a2162a2f68
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1467732076, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+- Class: 114
+  Script: {fileID: 337831424, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -113659843, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cdb2a852fdb7a3348ae4c9ef5a5c0f33, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9d89f7381e2da9647ad0e197c5138451, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cdacb7c8f2cea50449040a2794cfd853, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b08b595a1fd446d4198d0bca9385bc59, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 370faaddc6bcdac45b68dcfd88149a60, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 15aa6fce225b0334ab9e312f5c993b2b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 320
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameData/Prefabs/UIPanel/GamePanel.prefab
+- Assets/GameData/Prefabs/UIPanel/CharacterPanel.prefab
+- Assets/GameData/Prefabs/UIPanel/BuildPanel.prefab
+- Assets/GameData/Prefabs/UIPanel/EquipShopPanel.prefab
+- Assets/GameData/Prefabs/UIPanel/MainPanel.prefab
+- Assets/GameData/Prefabs/UIPanel/SkillInfoPanel.prefab
+Dependencies: []

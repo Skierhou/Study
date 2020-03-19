@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WaveData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WaveList Id="1" EnemyId="0" Coin="0" Exp="0" Count="0" Interval="0" Hp="0" MoveSpeed="0" Defense="0" MagicDefense="0" />
+  <WaveList Id="2" EnemyId="0" Coin="0" Exp="0" Count="0" Interval="0" Hp="0" MoveSpeed="0" Defense="0" MagicDefense="0" />
+</WaveData>

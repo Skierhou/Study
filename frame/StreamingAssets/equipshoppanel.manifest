@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 7047828
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 00d5897fc34365a36e7d7d9b016bc720
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 49a964cd5935f1527b158e399e077888
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 15aa6fce225b0334ab9e312f5c993b2b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameData/Prefabs/UIPanel/EquipShopPanel.prefab
+Dependencies:
+- G:/UnityProject/TowerDefense/Assets/../AssetBundle/StandaloneWindows64/buildpanel
+- G:/UnityProject/TowerDefense/Assets/../AssetBundle/StandaloneWindows64/characterpanel

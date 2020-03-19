@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ShopData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ShopList Id="1" Name="Name" IconPath="Assets/GameData/Textures/frame02.png" ShopItemType="Diamond" PayType="Money" Payment="10" Des="Des" />
+  <ShopList Id="2" Name="Name" IconPath="Assets/GameData/Textures/frame02.png" ShopItemType="Skin" PayType="Diamond" Payment="100" Des="Des" />
+  <ShopList Id="3" Name="Name" IconPath="Assets/GameData/Textures/frame02.png" ShopItemType="Card" PayType="Diamond" Payment="100" Des="Des" />
+</ShopData>
